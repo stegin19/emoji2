@@ -1,0 +1,126 @@
+
+.pig{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; */
+    margin-top: 100px;
+    display: flex;
+}
+
+.ear1{
+    position: absolute;
+    border: 1px solid;
+    height: 50%;
+    width: 30%;
+    background-color: pink;
+    border-radius: 100px 100px 0px 0px;
+    margin-left: 20%;
+}
+
+.ear2{
+    position: absolute;
+    border: 1px solid;
+    height: 50%;
+    width: 30%;
+    background-color: pink;
+    border-radius: 100px 100px 0px 0px;
+   margin-left: 55%;
+}
+
+.face{
+    position: absolute;
+    border: 1px solid;
+    height: 85%;
+    width: 88%;
+    margin-left: 10%;
+    margin-top: 11%;
+    border-radius: 50%;
+    background-color: pink;
+
+}
+
+.eyes{
+    position: absolute;
+    /* border: 1px solid; */
+    height: 20%;
+    width: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.eye1{
+    position: absolute;
+    /* border: 1px solid; */
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: -40%;
+}
+
+.eye12{
+    position: absolute;
+    border: 1px solid;
+    height: 55%;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 20%;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.eye2{
+    position: absolute;
+    /* border: 1px solid; */
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+.eye21{
+    position: absolute;
+    border: 1px solid;
+    height: 55%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20%;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.nose{
+    position: absolute;
+    border: 1px solid;
+    height: 20%;
+    width: 45%;
+   
+    margin-left: 27%;
+    background-color: red;
+    margin-top: 50%;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.nose1{
+    position: absolute;
+    border: 1px solid;
+    height: 56%;
+    width: 25%;
+    margin-left: -39%;
+    margin-top: 7%;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.nose2{
+    position: absolute;
+    border: 1px solid;
+    height: 56%;
+    width: 25%;
+    margin-left: 9%;
+    margin-top: 7%;
+    border-radius: 50%;
+    background-color: black;
+}
